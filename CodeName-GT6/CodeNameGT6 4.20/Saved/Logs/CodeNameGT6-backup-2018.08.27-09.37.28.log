@@ -1,0 +1,1214 @@
+﻿Log file open, 08/26/18 10:20:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CodeNameGT6
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.217446
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.122s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz, GPU: Intel(R) HD Graphics Family
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.26-08.20.53:031][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.26-08.20.53:031][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.26-08.20.53:048][  0]LogHAL: Display: Platform has ~ 8 GB [8516689920 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.08.26-08.20.53:048][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.08.26-08.20.53:048][  0]LogInit: Going up to parent DeviceProfile []
+[2018.08.26-08.20.53:049][  0]LogInit: Computer: RAPTOR-INK-STUD
+[2018.08.26-08.20.53:049][  0]LogInit: User: benne
+[2018.08.26-08.20.53:049][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.08.26-08.20.53:049][  0]LogInit: High frequency timer resolution =2.533196 MHz
+[2018.08.26-08.20.53:049][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.08.26-08.20.53:049][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.26-08.20.53:049][  0]LogMemory: Process Physical Memory: 100.20 MB used, 100.20 MB peak
+[2018.08.26-08.20.53:049][  0]LogMemory: Process Virtual Memory: 84.44 MB used, 84.44 MB peak
+[2018.08.26-08.20.53:049][  0]LogMemory: Physical Memory: 3403.50 MB used,  4718.65 MB free, 8122.15 MB total
+[2018.08.26-08.20.53:049][  0]LogMemory: Virtual Memory: 4621.46 MB used,  4718.65 MB free, 134217728.00 MB total
+[2018.08.26-08.20.53:068][  0]LogInit: Using OS detected language (en-GB).
+[2018.08.26-08.20.53:068][  0]LogInit: Using OS detected locale (en-ZA).
+[2018.08.26-08.20.53:069][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.08.26-08.20.53:653][  0]LogStreaming: Display: Took  0.584s to InitEngineTextLocalization.
+[2018.08.26-08.20.53:653][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.26-08.20.53:713][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.26-08.20.53:713][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.26-08.20.54:122][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.08.26-08.20.54:122][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.26-08.20.54:222][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 840M' (Feature Level 11_0)
+[2018.08.26-08.20.54:222][  0]LogD3D11RHI:       2020/0/4061 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.08.26-08.20.54:231][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
+[2018.08.26-08.20.54:231][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.08.26-08.20.54:235][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.26-08.20.54:235][  0]LogD3D11RHI:       0/0/4061 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.26-08.20.54:235][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.26-08.20.54:258][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.26-08.20.54:258][  0]LogD3D11RHI:     GPU DeviceId: 0x1341 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.26-08.20.54:258][  0]LogWindows: EnumDisplayDevices:
+[2018.08.26-08.20.54:258][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2018.08.26-08.20.54:258][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:1)
+[2018.08.26-08.20.54:259][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2018.08.26-08.20.54:259][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.26-08.20.54:259][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 840M
+[2018.08.26-08.20.54:259][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.26-08.20.54:259][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.26-08.20.54:259][  0]LogRHI: Texture pool is 1414 MB (70% of 2020 MB)
+[2018.08.26-08.20.54:305][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.26-08.20.54:325][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.08.26-08.20.54:326][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Intermediate/Shaders/WorkingDirectory/4208/).
+[2018.08.26-08.20.54:327][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/benne/AppData/Local/Temp/UnrealShaderWorkingDir/3A4771A3467CBF44DC4963B65A091858/'.
+[2018.08.26-08.20.54:895][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.26-08.20.54:916][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.26-08.20.54:936][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.26-08.20.54:954][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.26-08.20.54:973][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.26-08.20.54:992][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.26-08.20.55:010][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.26-08.20.55:027][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.26-08.20.55:036][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.26-08.20.55:167][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-08.20.55:167][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-08.20.55:167][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-08.20.55:167][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-08.20.55:167][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-08.20.55:167][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-08.20.55:167][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-08.20.55:167][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-08.20.55:167][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-08.20.55:167][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-08.20.55:167][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-08.20.55:167][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-08.20.55:167][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-08.20.55:167][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-08.20.55:167][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-08.20.55:167][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-08.20.55:167][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-08.20.55:167][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-08.20.55:169][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.26-08.20.55:241][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.26-08.20.55:241][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.26-08.20.55:273][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.26-08.20.55:273][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.26-08.20.55:291][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.26-08.20.55:310][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.26-08.20.55:334][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.26-08.20.55:356][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.26-08.20.55:371][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.08.26-08.20.55:371][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.26-08.20.55:444][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.26-08.20.55:444][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.26-08.20.55:444][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.26-08.20.56:536][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.26-08.20.56:620][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/benne/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.26-08.20.56:620][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/benne/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.08.26-08.20.56:620][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.26-08.20.56:620][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.26-08.20.56:620][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.26-08.20.56:620][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.26-08.20.56:636][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.26-08.20.56:648][  0]LogDerivedDataCache: Using Local data cache path C:/Users/benne/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.26-08.20.56:648][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.26-08.20.56:648][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.26-08.20.56:676][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.26-08.20.56:677][  0]LogSlate: Using FreeType 2.6.0
+[2018.08.26-08.20.56:678][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.26-08.20.56:768][  0]LogAssetRegistry: FAssetRegistry took 0.0290 seconds to start up
+[2018.08.26-08.20.57:225][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.26-08.20.57:414][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.26-08.20.57:419][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.26-08.20.57:419][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.08.26-08.20.57:419][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.26-08.20.57:419][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.26-08.20.57:439][  0]LogNetVersion: CodeNameGT6 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 180673287)
+[2018.08.26-08.20.58:255][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.177646 seconds
+[2018.08.26-08.20.58:267][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.08.26-08.20.58:267][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.08.26-08.20.58:267][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.26-08.20.59:419][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.26-08.20.59:432][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.26-08.20.59:609][  0]SourceControl: Source control is disabled
+[2018.08.26-08.20.59:609][  0]SourceControl: Source control is disabled
+[2018.08.26-08.20.59:610][  0]SourceControl: Source control is disabled
+[2018.08.26-08.20.59:611][  0]SourceControl: Source control is disabled
+[2018.08.26-08.20.59:789][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.26-08.20.59:868][  0]LogOcInput: OculusInput pre-init called
+[2018.08.26-08.20.59:942][  0]LogEngine: Initializing Engine...
+[2018.08.26-08.20.59:967][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.08.26-08.20.59:969][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.26-08.20.59:969][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.26-08.20.59:969][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.26-08.20.59:969][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.26-08.21.00:229][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.08.26-08.21.00:247][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.26-08.21.00:265][  0]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adaptor)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.26-08.21.00:287][  0]LogInit: FAudioDevice initialized.
+[2018.08.26-08.21.00:288][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.08.26-08.21.00:567][  0]LogDerivedDataCache: Saved boot cache 0.28s 71MB C:/Users/benne/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.26-08.21.00:585][  0]LogInit: Texture streaming: Enabled
+[2018.08.26-08.21.00:609][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.26-08.21.00:628][  0]LogInit: Transaction tracking system initialized
+[2018.08.26-08.21.00:668][  0]BlueprintLog: New page: Editor Load
+[2018.08.26-08.21.00:763][  0]LocalizationService: Localization service is disabled
+[2018.08.26-08.21.01:154][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.26-08.21.01:154][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.26-08.21.01:154][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.26-08.21.01:154][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.26-08.21.01:154][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.26-08.21.01:154][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.26-08.21.01:154][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.26-08.21.01:325][  0]LogFileCache: Scanning file cache for directory 'C:/Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/' took 0.01s
+[2018.08.26-08.21.01:325][  0]SourceControl: Source control is disabled
+[2018.08.26-08.21.01:326][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.08.26-08.21.01:326][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.26-08.21.01:408][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81,75ms to complete.
+[2018.08.26-08.21.01:408][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.082
+[2018.08.26-08.21.01:524][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-08.21.01:533][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-08.21.01:543][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-08.21.01:552][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-08.21.01:561][  0]LogCollectionManager: Loaded 0 collections in 0.002613 seconds
+[2018.08.26-08.21.01:607][  0]LogFileCache: Scanning file cache for directory 'C:/Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Collections/' took 0.01s
+[2018.08.26-08.21.01:607][  0]LogFileCache: Scanning file cache for directory 'C:/Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Developers/benne/Collections/' took 0.01s
+[2018.08.26-08.21.01:607][  0]LogFileCache: Scanning file cache for directory 'C:/Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Collections/' took 0.01s
+[2018.08.26-08.21.01:607][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.26-08.21.01:619][  0]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2572 classes and 603 folders.
+[2018.08.26-08.21.01:627][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.26-08.21.01:686][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.26-08.21.01:691][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.08.26-08.21.03:090][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.08.26-08.21.03:133][  0]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.26-08.21.03:136][  0]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.26-08.21.03:145][  0]LogSlate: Took 0.000584 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.26-08.21.03:383][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.CodeNameGT6
+[2018.08.26-08.21.03:383][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.26-08.21.03:383][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.08.26-08.21.03:383][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.26-08.21.03:383][  0]LogTemp: BranchPath = RAPTOR-INK-STUD/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = RAPTOR-INK-STUD/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.08.26-08.21.03:383][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\benne\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.08.26-08.21.03:384][  0]LogRenderer: Reallocating scene render targets to support 828x352 Format 10 NumSamples 1 (Frame:1).
+[2018.08.26-08.21.03:724][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.08.26-08.21.03:724][  0]LogLoad: (Engine Initialization) Total time: 12.67 seconds
+[2018.08.26-08.21.03:724][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.26-08.21.03:743][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.26-08.21.03:774][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.08.26-08.21.03:810][  0]LogSlate: Took 0.000423 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.26-08.21.03:906][  2]LogAssetRegistry: Asset discovery search completed in 7.1615 seconds
+[2018.08.26-08.21.03:909][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.26-08.21.03:909][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000053 seconds (updated 0 objects)
+[2018.08.26-08.21.08:594][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-08.21.28:548][467]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2018.08.26-08.21.28:548][467]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2018.08.26-08.21.28:548][467]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2018.08.26-08.21.30:600][590]LogSlate: Took 0.001112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.26-08.22.08:778][810]LogSlate: Window 'Create New Blueprint' being destroyed
+[2018.08.26-08.22.08:874][810]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP/GameModes/BP_GameInstance.BP_GameInstance
+[2018.08.26-08.22.10:150][810]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.08.26-08.22.11:318][810]LogSlate: Took 0.012787 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.26-08.22.11:459][814]LogHttp: Warning: 000001BF84BAA200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.26-08.22.11:459][814]LogHttp: Warning: 000001BF84BAA200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.26-08.22.11:459][814]LogHttp: Warning: 000001BF84BAA200: libcurl info message cache 1 (Closing connection 0)
+[2018.08.26-08.22.14:994][ 18]LogSlate: Window 'BP_GameInstance*' being destroyed
+[2018.08.26-08.22.16:292][ 91]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/BP_GameInstanceF866F01D4D6CF35F0BBC979F8E8D57A0.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/BP/GameModes/BP_GameInstance.uasset'
+[2018.08.26-08.22.23:762][527]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.26-08.22.25:694][640]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.26-08.22.39:496][234]LogAIModule: Creating AISystem for world Bennet_Test_Map
+[2018.08.26-08.22.39:517][234]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Bennet_Test_Map.Bennet_Test_Map
+[2018.08.26-08.22.39:560][234]Cmd: MAP LOAD FILE="../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Maps/Bennet_Test_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.26-08.22.39:560][234]LightingResults: New page: Lighting Build
+[2018.08.26-08.22.39:563][234]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2018.08.26-08.22.39:564][234]LoadErrors: New page: Loading map: Bennet_Test_Map.umap
+[2018.08.26-08.22.39:564][234]MapCheck: New page: Map Check
+[2018.08.26-08.22.39:564][234]LightingResults: New page: Lighting Build
+[2018.08.26-08.22.39:702][234]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.26-08.22.39:771][234]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.26-08.22.39:859][234]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 87,372ms to complete.
+[2018.08.26-08.22.39:859][234]LogFileHelpers: Loading map 'Bennet_Test_Map' took 0.301
+[2018.08.26-08.24.11:800][817]LogHttp: Warning: 000001BFAA296340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.26-08.24.11:800][817]LogHttp: Warning: 000001BFAA296340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.26-08.24.11:800][817]LogHttp: Warning: 000001BFAA296340: libcurl info message cache 1 (Closing connection 1)
+[2018.08.26-08.26.12:376][884]LogHttp: Warning: 000001BFAA297600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.26-08.26.12:377][884]LogHttp: Warning: 000001BFAA297600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.26-08.26.12:377][884]LogHttp: Warning: 000001BFAA297600: libcurl info message cache 1 (Closing connection 2)
+[2018.08.26-08.28.12:396][679]LogHttp: Warning: 000001BFE45C6480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.26-08.28.12:396][679]LogHttp: Warning: 000001BFE45C6480: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.26-08.28.12:396][679]LogHttp: Warning: 000001BFE45C6480: libcurl info message cache 1 (Closing connection 3)
+[2018.08.26-08.29.06:132][943]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.26-08.29.28:470][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Stand_To_Prone7768C3124AE68B09CD974A9D51384479.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Stand_To_Prone.uasset'
+[2018.08.26-08.29.28:548][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Idle_Rifle_HipD67C23B541BB6529FB9A278FEF038F0F.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Crouch_Idle_Rifle_Hip.uasset'
+[2018.08.26-08.29.28:609][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Idle_Rifle_Ironsights5BF383094DB25A65CA6588AC9884D724.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Crouch_Idle_Rifle_Ironsights.uasset'
+[2018.08.26-08.29.28:666][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_to_Stand_Rifle_HipB597AFF048254E0A621C16B97358872D.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Crouch_to_Stand_Rifle_Hip.uasset'
+[2018.08.26-08.29.28:720][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_to_Stand_Rifle_Ironsights3070F11A4111D1DFEAD40BB2C24CAA37.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Crouch_to_Stand_Rifle_Ironsights.uasset'
+[2018.08.26-08.29.28:782][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Walk_Bwd_Rifle_HipA33E2F01469C390E4FAA0991CBD388C7.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Crouch_Walk_Bwd_Rifle_Hip.uasset'
+[2018.08.26-08.29.28:845][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Walk_Bwd_Rifle_IronsightsCB9565FE47379E4FC5C34BA33C57187B.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Crouch_Walk_Bwd_Rifle_Ironsights.uasset'
+[2018.08.26-08.29.28:915][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Walk_Fwd_Rifle_HipE7BE1F844EEA3F94447DE39D92D53EC4.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Crouch_Walk_Fwd_Rifle_Hip.uasset'
+[2018.08.26-08.29.28:975][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Walk_Fwd_Rifle_Ironsights2B732E844D8199E4955828AB1A8E51FE.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Crouch_Walk_Fwd_Rifle_Ironsights.uasset'
+[2018.08.26-08.29.29:041][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Walk_Lt_Rifle_Hip577343C5445617C5F1E4A89D7E374C22.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Crouch_Walk_Lt_Rifle_Hip.uasset'
+[2018.08.26-08.29.29:108][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Walk_Lt_Rifle_Ironsights11A0DCDC4D5F3E16C7015D87CC546AA1.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Crouch_Walk_Lt_Rifle_Ironsights.uasset'
+[2018.08.26-08.29.29:166][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Walk_Rt_Rifle_Hip5822572446407C707EED17B07E412327.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Crouch_Walk_Rt_Rifle_Hip.uasset'
+[2018.08.26-08.29.29:223][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Walk_Rt_Rifle_Ironsights5DFCA41247AB5C9BF63446A3F3286E86.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Crouch_Walk_Rt_Rifle_Ironsights.uasset'
+[2018.08.26-08.29.29:283][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Death_10B72EFCD4FFCB5BD5243478036AB6E49.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Death_1.uasset'
+[2018.08.26-08.29.29:346][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Death_2DB0F3A2746D249365636F8A4DA7E72FA.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Death_2.uasset'
+[2018.08.26-08.29.29:407][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Death_3E95EF5C8465BD3BB8C37E698D6373745.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Death_3.uasset'
+[2018.08.26-08.29.29:464][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Death_Ironsights_14CDF416343108A01625812B5BC0F2861.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Death_Ironsights_1.uasset'
+[2018.08.26-08.29.29:524][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Death_Ironsights_2D237650F401EBF090F8CFA976A3FB1C5.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Death_Ironsights_2.uasset'
+[2018.08.26-08.29.29:584][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Equip_Pistol_StandingEAF64A5B4514F8F12292E1BAD3A19F33.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Equip_Pistol_Standing.uasset'
+[2018.08.26-08.29.29:641][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Equip_Rifle_Standing988DBD214A7C4F374DE86CA1EAD80546.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Equip_Rifle_Standing.uasset'
+[2018.08.26-08.29.29:701][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Fire_Rifle_HipA342FD3646B1B1BDE4DFFAAFA8B06301.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Fire_Rifle_Hip.uasset'
+[2018.08.26-08.29.29:757][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Fire_Rifle_Ironsights7944508F44FE8930EB343586ECFA77BB.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Fire_Rifle_Ironsights.uasset'
+[2018.08.26-08.29.29:813][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Fire_Shotgun_Hip5F745DE44C6855E5C3D4839CCB53BE71.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Fire_Shotgun_Hip.uasset'
+[2018.08.26-08.29.29:871][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Fire_Shotgun_Ironsights53672982492366778FAA7C8D320A3745.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Fire_Shotgun_Ironsights.uasset'
+[2018.08.26-08.29.29:950][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Hit_React_113FB1CC6422E513D2A58F7B7C3F146B9.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Hit_React_1.uasset'
+[2018.08.26-08.29.30:006][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Hit_React_2C7DAA3CA4E40E17AED8EDE8A351E12D8.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Hit_React_2.uasset'
+[2018.08.26-08.29.30:060][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Hit_React_3A104769645A9DC4C7A0295BACF67B441.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Hit_React_3.uasset'
+[2018.08.26-08.29.30:125][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Hit_React_42EA53E314494AE5252C208B901BF68C6.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Hit_React_4.uasset'
+[2018.08.26-08.29.30:182][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Idle_Pistol3F4894F640B35F877800CBA74A5E1A72.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Idle_Pistol.uasset'
+[2018.08.26-08.29.30:240][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Idle_Rifle_HipD5DB78A1403726030EB2CF91B7CE4E8E.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Idle_Rifle_Hip.uasset'
+[2018.08.26-08.29.30:302][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Idle_Rifle_Hip_Break17CB07C3A4DC06756FF6F899C77881C54.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Idle_Rifle_Hip_Break1.uasset'
+[2018.08.26-08.29.30:364][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Idle_Rifle_Hip_Break2E3E688194CCC2CA86B490AB18DB6F10C.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Idle_Rifle_Hip_Break2.uasset'
+[2018.08.26-08.29.30:426][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Idle_Rifle_IronsightsBE79C08D486AB3B648A04894BF95BE8B.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Idle_Rifle_Ironsights.uasset'
+[2018.08.26-08.29.30:492][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Jog_Bwd_Rifle50223C8B4E8CFB98832FF7BD9D9C7F82.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Jog_Bwd_Rifle.uasset'
+[2018.08.26-08.29.30:553][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Jog_Fwd_Rifle649766834DB0DCC81A106593DC764C29.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Jog_Fwd_Rifle.uasset'
+[2018.08.26-08.29.30:609][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Jog_Lt_RifleBBA5B66F4865CC4BF75452BE33F61914.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Jog_Lt_Rifle.uasset'
+[2018.08.26-08.29.30:664][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Jog_Rt_Rifle7B70CDAA49FED38DB41C0EA9342F398E.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Jog_Rt_Rifle.uasset'
+[2018.08.26-08.29.30:720][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Jump_From_Jog7606768348C1EBCAC93C03AEB94B4C60.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Jump_From_Jog.uasset'
+[2018.08.26-08.29.30:779][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Jump_From_StandEEDC308240F23EE5DC7DC0B6A94A5BD1.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Jump_From_Stand.uasset'
+[2018.08.26-08.29.30:845][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Jump_From_Stand_IronsightsDD6543F84C00B7C9C25EA4AE9F75D90F.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Jump_From_Stand_Ironsights.uasset'
+[2018.08.26-08.29.30:899][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Prone_Death_16818946146142D2D315272AAB2600E04.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Prone_Death_1.uasset'
+[2018.08.26-08.29.30:957][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Prone_Death_211454CD74F7E58AFFB2934B4C672801D.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Prone_Death_2.uasset'
+[2018.08.26-08.29.31:016][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Prone_Fire_139E5012D42D8FD67A9A2C0914ED45FD3.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Prone_Fire_1.uasset'
+[2018.08.26-08.29.31:071][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Prone_Fire_2C948E1824F8413A2122C1699ACBFDC54.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Prone_Fire_2.uasset'
+[2018.08.26-08.29.31:128][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Prone_IdleEC2F071B4DA23CCABB5D6EB274780871.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Prone_Idle.uasset'
+[2018.08.26-08.29.31:184][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Prone_Reload_Rifle9104D21C4726771C0840ACB612C25E75.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Prone_Reload_Rifle.uasset'
+[2018.08.26-08.29.31:241][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Prone_Reload_Shotgun6D45A58F413D7FA8B584AD85C40D11FE.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Prone_Reload_Shotgun.uasset'
+[2018.08.26-08.29.31:304][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Prone_To_StandF34C2E8C4D6AC59BAC65D3993B36CCC3.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Prone_To_Stand.uasset'
+[2018.08.26-08.29.31:361][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Reload_Pistol391BC5E2491837E739479E82B660876D.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Reload_Pistol.uasset'
+[2018.08.26-08.29.31:421][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Reload_Rifle_Hip56DD17384104E3CDA7777B8486EB013A.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Reload_Rifle_Hip.uasset'
+[2018.08.26-08.29.31:481][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Reload_Rifle_Ironsights5CC62C384C4E81B0197820AD9B4F7D91.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Reload_Rifle_Ironsights.uasset'
+[2018.08.26-08.29.31:541][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Reload_Shotgun_Hip42EFCA394CFDE08C3B89AC91461661AD.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Reload_Shotgun_Hip.uasset'
+[2018.08.26-08.29.31:598][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Reload_Shotgun_IronsightsC987EE2740C2B84B7B0B1BA32CDC2F51.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Reload_Shotgun_Ironsights.uasset'
+[2018.08.26-08.29.31:654][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Sprint_Fwd_Rifle154893714544A83F9886EE8BFEE74DD1.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Sprint_Fwd_Rifle.uasset'
+[2018.08.26-08.29.31:714][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Stand_to_Crouch_Rifle_Hip75801EF44F71246FCB6CC1905FFEAA8A.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Stand_to_Crouch_Rifle_Hip.uasset'
+[2018.08.26-08.29.31:817][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Stand_to_Crouch_Rifle_IronsightsF02F5CEF43B3C71286E1FBA5168B3684.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Stand_to_Crouch_Rifle_Ironsights.uasset'
+[2018.08.26-08.29.38:251][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/UE4ASP_HeroTPP_AnimBlueprint191E02FE427BCA16512F97BBABA08500.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset'
+[2018.08.26-08.29.38:390][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/BS_CrouchWalk0D423539410A8665C20A4CA3660FE128.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/AnimStarterPack/BS_CrouchWalk.uasset'
+[2018.08.26-08.29.38:521][467]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/BS_Jog0B3327F643BC4161C07CA6AB7DA0CBE7.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/AnimStarterPack/BS_Jog.uasset'
+[2018.08.26-08.29.48:407][744]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Aim_Space_Hip3EFFB5B8415DBE24F1FA8FA7C496E42D.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Aim_Space_Hip.uasset'
+[2018.08.26-08.29.48:470][744]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Aim_Space_Ironsights0EB218D1483682852BF16AB53164D29C.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Aim_Space_Ironsights.uasset'
+[2018.08.26-08.29.48:532][744]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Walk_Bwd_Rifle_IronsightsA75E00364C7580316F8EB4813076BCF7.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Walk_Bwd_Rifle_Ironsights.uasset'
+[2018.08.26-08.29.48:598][744]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Walk_Fwd_Rifle_Ironsights362E55C34F7E6B4935F2299DF4D53E8F.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Walk_Fwd_Rifle_Ironsights.uasset'
+[2018.08.26-08.29.48:658][744]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Walk_Lt_Rifle_Ironsights2141A21F49ABF7866995ACA105AACA9A.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Walk_Lt_Rifle_Ironsights.uasset'
+[2018.08.26-08.29.48:721][744]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Walk_Rt_Rifle_Ironsights5FBD5A234B27331D1D9C09ABFD56AF0E.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Walk_Rt_Rifle_Ironsights.uasset'
+[2018.08.26-08.30.12:450][676]LogHttp: Warning: 000001BFE284DA80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.26-08.30.12:451][676]LogHttp: Warning: 000001BFE284DA80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.26-08.30.12:451][676]LogHttp: Warning: 000001BFE284DA80: libcurl info message cache 1 (Closing connection 4)
+[2018.08.26-08.30.46:863][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/T_ML_Rubber_Blue_01_D13BC7BE74D7C8132705EF488D01E87BC.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Models/player/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2018.08.26-08.30.46:967][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/T_ML_Rubber_Blue_01_NDE5369FC48A2C446E50D168968D70FC7.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Models/player/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2018.08.26-08.30.47:042][208]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2018.08.26-08.30.47:291][208]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.08.26-08.30.47:291][208]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.08.26-08.30.47:291][208]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.08.26-08.30.47:511][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/ML_GlossyBlack_Latex_UE462A7C4544BF068CC66FB31ABDE075F9B.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Models/player/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2018.08.26-08.30.47:850][208]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2018.08.26-08.30.47:983][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/ML_Plastic_Shiny_Beige9FB7505F429623867BECAE9B0FA5BE69.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Models/player/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2018.08.26-08.30.48:256][208]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2018.08.26-08.30.48:387][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/ML_Plastic_Shiny_Beige_LOGO71D9EA514515EFC2DAA8A29FF62198AB.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Models/player/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2018.08.26-08.30.48:444][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/T_ML_Aluminum01E7ABB69B4BAE87B7EC939F94A125AA4D.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Models/player/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2018.08.26-08.30.48:503][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/T_ML_Aluminum01_N817E46D34A98A016BCDE50A11464C9A9.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Models/player/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2018.08.26-08.30.48:520][208]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2018.08.26-08.30.48:671][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/ML_SoftMetal_UE4A1CA22A742C01E26074AB091D949EDB3.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Models/player/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2018.08.26-08.30.48:798][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/M_UE4Man_Body9F5C18DE4F8E17FA4A272D80129106A4.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Models/player/Materials/M_UE4Man_Body.uasset'
+[2018.08.26-08.30.48:941][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/M_UE4Man_ChestLogo5BE587EA485FED2D71E78399B7CE8D18.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Models/player/Materials/M_UE4Man_ChestLogo.uasset'
+[2018.08.26-08.30.50:965][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/SK_MannequinABE53B5247977D6D68582CB2A47E594D.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset'
+[2018.08.26-08.30.51:233][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/UE4_Mannequin_Skeleton69BB901848E8A8DF0DFFF2A3679C9A43.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Models/player/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2018.08.26-08.30.51:387][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/SK_Mannequin_PhysicsAsset40CD57C14AB6FFE38C436EB5CE543989.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Models/player/Mesh/SK_Mannequin_PhysicsAsset.uasset'
+[2018.08.26-08.30.51:612][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/SK_Mannequin410F08BD4BB7F61D53C14E9CF8C1111A.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Models/player/Mesh/SK_Mannequin.uasset'
+[2018.08.26-08.30.52:690][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/UE4ASP_HeroTPP_AnimBlueprintD7ED6B0B4EAD7FB8EDF1B58F62BA3896.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset'
+[2018.08.26-08.30.52:762][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/BS_CrouchWalk06E4066D458E9288A97B588F6E71F443.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/AnimStarterPack/BS_CrouchWalk.uasset'
+[2018.08.26-08.30.52:830][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/BS_Jog767F9A9B422918EFCD26738AC0EECA8D.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/AnimStarterPack/BS_Jog.uasset'
+[2018.08.26-08.30.52:910][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Stand_To_ProneC0F186DF49284D9BD03D1E97898319CD.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Stand_To_Prone.uasset'
+[2018.08.26-08.30.52:987][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Idle_Rifle_Hip61ED593E4E76FEE5593195B8890EED7C.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Crouch_Idle_Rifle_Hip.uasset'
+[2018.08.26-08.30.53:064][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Idle_Rifle_Ironsights125B923F469F10DD7B17DD88E5EA2AAE.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Crouch_Idle_Rifle_Ironsights.uasset'
+[2018.08.26-08.30.53:149][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_to_Stand_Rifle_HipC2F35CF14654D176DB40D1922D816B5E.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Crouch_to_Stand_Rifle_Hip.uasset'
+[2018.08.26-08.30.53:225][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_to_Stand_Rifle_IronsightsDE15CA954C40F2868380219C541049F0.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Crouch_to_Stand_Rifle_Ironsights.uasset'
+[2018.08.26-08.30.53:304][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Walk_Bwd_Rifle_Hip166556E5482DB2DBF9418FAC59DF5C10.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Crouch_Walk_Bwd_Rifle_Hip.uasset'
+[2018.08.26-08.30.53:393][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Walk_Bwd_Rifle_Ironsights862CF5584EBA1934031BEB9AE46E9FB3.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Crouch_Walk_Bwd_Rifle_Ironsights.uasset'
+[2018.08.26-08.30.53:468][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Walk_Fwd_Rifle_HipECA5C2C44650FD2EB1C0A09F9BBC6AF3.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Crouch_Walk_Fwd_Rifle_Hip.uasset'
+[2018.08.26-08.30.53:551][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Walk_Fwd_Rifle_Ironsights36F5769A4AE16DC3D0223E967CEEABC0.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Crouch_Walk_Fwd_Rifle_Ironsights.uasset'
+[2018.08.26-08.30.53:634][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Walk_Lt_Rifle_Hip65EEB4974766A58C5488199D33700E4B.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Crouch_Walk_Lt_Rifle_Hip.uasset'
+[2018.08.26-08.30.53:713][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Walk_Lt_Rifle_Ironsights9B41D3EF4CBE5C84D1E62281E7CFA42E.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Crouch_Walk_Lt_Rifle_Ironsights.uasset'
+[2018.08.26-08.30.53:885][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Walk_Rt_Rifle_HipBF28F1CF4425F01E7F6443BE6B840650.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Crouch_Walk_Rt_Rifle_Hip.uasset'
+[2018.08.26-08.30.53:959][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Walk_Rt_Rifle_IronsightsD655A2EB42B215C7860DA09FDE1A9919.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Crouch_Walk_Rt_Rifle_Ironsights.uasset'
+[2018.08.26-08.30.54:035][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Death_1C71110DE42F407E5B09755BF212564E1.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Death_1.uasset'
+[2018.08.26-08.30.54:125][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Death_294B159464C48309007E8D698DFCD15C7.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Death_2.uasset'
+[2018.08.26-08.30.54:202][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Death_34C9368A2465E7E77CC09CAB42C9E58F8.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Death_3.uasset'
+[2018.08.26-08.30.54:279][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Death_Ironsights_1C1D51F74483CEFF69739608EBB162F20.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Death_Ironsights_1.uasset'
+[2018.08.26-08.30.54:373][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Death_Ironsights_2C167900B414CA197525A218730920D9D.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Death_Ironsights_2.uasset'
+[2018.08.26-08.30.54:458][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Equip_Pistol_Standing40A1558C4EEE2C65C23220B4FA8C7551.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Equip_Pistol_Standing.uasset'
+[2018.08.26-08.30.54:551][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Equip_Rifle_Standing749934414BFFBC6259FD0F9BD3064A41.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Equip_Rifle_Standing.uasset'
+[2018.08.26-08.30.54:639][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Fire_Rifle_HipB3463A774A73925077B331A75330F10B.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Fire_Rifle_Hip.uasset'
+[2018.08.26-08.30.54:724][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Fire_Rifle_IronsightsD32DC9784C6F5A4D549E2EA1D16DF200.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Fire_Rifle_Ironsights.uasset'
+[2018.08.26-08.30.54:809][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Fire_Shotgun_Hip7BC2C0A245E2057B3F7AE5BFC8C9D07A.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Fire_Shotgun_Hip.uasset'
+[2018.08.26-08.30.54:893][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Fire_Shotgun_Ironsights98F0F8FF4255F422CDAD25932B363406.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Fire_Shotgun_Ironsights.uasset'
+[2018.08.26-08.30.54:992][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Hit_React_195472EA54AF5C90FE0D192A0EAAE3F32.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Hit_React_1.uasset'
+[2018.08.26-08.30.55:075][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Hit_React_289F0E6C141B0C15B91C05E8283D1742C.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Hit_React_2.uasset'
+[2018.08.26-08.30.55:158][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Hit_React_3C94385D1461B8215039EF1846C31EBC2.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Hit_React_3.uasset'
+[2018.08.26-08.30.55:260][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Hit_React_4CF028BE844F80E8F7DDC00A2E6AE7523.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Hit_React_4.uasset'
+[2018.08.26-08.30.55:354][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Idle_Pistol36CC85D74C087F015218BC8AC512F503.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Idle_Pistol.uasset'
+[2018.08.26-08.30.55:449][208]LogShaderCompilers: Display: Shaders left to compile 146
+[2018.08.26-08.30.55:449][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Idle_Rifle_HipAED38C9E450D5B79AAC5BD9051E12B2A.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Idle_Rifle_Hip.uasset'
+[2018.08.26-08.30.55:550][208]LogShaderCompilers: Display: Shaders left to compile 136
+[2018.08.26-08.30.55:550][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Idle_Rifle_Hip_Break1287A693B48104F556A5C4F863F052D1C.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Idle_Rifle_Hip_Break1.uasset'
+[2018.08.26-08.30.55:648][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Idle_Rifle_Hip_Break209F47F0B4CBA12C27A2BEAA8B2E5E940.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Idle_Rifle_Hip_Break2.uasset'
+[2018.08.26-08.30.55:755][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Idle_Rifle_Ironsights401DF8004BA2FFAFAC616893EBCD6F59.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Idle_Rifle_Ironsights.uasset'
+[2018.08.26-08.30.55:849][208]LogShaderCompilers: Display: Shaders left to compile 126
+[2018.08.26-08.30.55:849][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Jog_Bwd_RifleA736376F4432AA4008FEE881BAA67725.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Jog_Bwd_Rifle.uasset'
+[2018.08.26-08.30.55:932][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Jog_Fwd_Rifle5C0A8CC444873F2C2DA979968EF5C431.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Jog_Fwd_Rifle.uasset'
+[2018.08.26-08.30.56:017][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Jog_Lt_Rifle081F2C4E447D7D6AE4ADE59F07D215CA.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Jog_Lt_Rifle.uasset'
+[2018.08.26-08.30.56:100][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Jog_Rt_Rifle630605BD4D8C7C18BBC86AB016042A2A.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Jog_Rt_Rifle.uasset'
+[2018.08.26-08.30.56:183][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Jump_From_JogF323DBC64FA941EFE3F19BB15F351A29.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Jump_From_Jog.uasset'
+[2018.08.26-08.30.56:279][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Jump_From_Stand0C127C0D434355CCB29703BBEF28C6BF.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Jump_From_Stand.uasset'
+[2018.08.26-08.30.56:376][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Jump_From_Stand_IronsightsD6507A5C4EF87DB5E1A68BA701FF329A.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Jump_From_Stand_Ironsights.uasset'
+[2018.08.26-08.30.56:463][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Prone_Death_1B5CF7C5A424CD53BC9306B8DF662434D.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Prone_Death_1.uasset'
+[2018.08.26-08.30.56:552][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Prone_Death_25A5B89A0475DEC413DB7BA8845C7D1B0.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Prone_Death_2.uasset'
+[2018.08.26-08.30.56:650][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Prone_Fire_1DD2EB85A40B1D3C02E928F88C558EC7E.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Prone_Fire_1.uasset'
+[2018.08.26-08.30.56:741][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Prone_Fire_2D8AD372246E4A77ACB3624A8CBF261BA.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Prone_Fire_2.uasset'
+[2018.08.26-08.30.56:829][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Prone_IdleDE70AD804AD4F75150A8AD908267B984.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Prone_Idle.uasset'
+[2018.08.26-08.30.56:915][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Prone_Reload_Rifle11160F474AE3C5FF0AADEF841686C4BD.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Prone_Reload_Rifle.uasset'
+[2018.08.26-08.30.57:005][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Prone_Reload_Shotgun083481164DB7CECF4E952E9EBB9D7F0E.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Prone_Reload_Shotgun.uasset'
+[2018.08.26-08.30.57:101][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Prone_To_StandB8FE100F4C0CB86744D346A5489FBE25.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Prone_To_Stand.uasset'
+[2018.08.26-08.30.57:188][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Reload_PistolC1D4BED34AF926085EA2AFAD8BE8B62A.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Reload_Pistol.uasset'
+[2018.08.26-08.30.57:282][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Reload_Rifle_HipAEB3952E4202B3E452B542BDD7553919.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Reload_Rifle_Hip.uasset'
+[2018.08.26-08.30.57:374][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Reload_Rifle_IronsightsB1A2A24C45CF65FD1822798F983AC572.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Reload_Rifle_Ironsights.uasset'
+[2018.08.26-08.30.57:473][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Reload_Shotgun_Hip01A142B04C4B674346B3DC8E1A44627B.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Reload_Shotgun_Hip.uasset'
+[2018.08.26-08.30.57:564][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Reload_Shotgun_Ironsights6BBB8B824F53E808C8DF96AD18164527.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Reload_Shotgun_Ironsights.uasset'
+[2018.08.26-08.30.57:653][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Sprint_Fwd_Rifle3D4A5A744E1E36661B0B8594837CDEA6.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Sprint_Fwd_Rifle.uasset'
+[2018.08.26-08.30.57:742][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Stand_to_Crouch_Rifle_Hip9E2C0A63455B36997BB94594A9E6B058.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Stand_to_Crouch_Rifle_Hip.uasset'
+[2018.08.26-08.30.57:873][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Stand_to_Crouch_Rifle_IronsightsCD33B32B44C752C65A93C580E22CBD09.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Stand_to_Crouch_Rifle_Ironsights.uasset'
+[2018.08.26-08.30.57:962][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Aim_Space_Hip29AF9DD8456DE7F15C4B96A41EBBF6CC.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Aim_Space_Hip.uasset'
+[2018.08.26-08.30.58:057][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Aim_Space_IronsightsDEA407B242807527F58397880378EB90.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Aim_Space_Ironsights.uasset'
+[2018.08.26-08.30.58:188][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Walk_Bwd_Rifle_IronsightsC3C86AD342CEB087A68DA6B2E56B5CB5.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Walk_Bwd_Rifle_Ironsights.uasset'
+[2018.08.26-08.30.58:279][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Walk_Fwd_Rifle_IronsightsAA2D0CB643B09E502C83B3990144BD69.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Walk_Fwd_Rifle_Ironsights.uasset'
+[2018.08.26-08.30.58:371][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Walk_Lt_Rifle_Ironsights0B251EF141DF2A882B2B65B7863828CB.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Walk_Lt_Rifle_Ironsights.uasset'
+[2018.08.26-08.30.58:463][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Walk_Rt_Rifle_IronsightsC65AB7924A52CB3279A8C28DAE72A072.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/Walk_Rt_Rifle_Ironsights.uasset'
+[2018.08.26-08.30.58:672][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Ue4ASP_CharacterAE05E3B0451944BEC7B1ED8A9FDC7909.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/BP/Player/Ue4ASP_Character.uasset'
+[2018.08.26-08.30.58:978][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/UE4_LOGO_CARD4749BF4D42E60058CFAE90AB33F7FD11.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Models/player/Textures/UE4_LOGO_CARD.uasset'
+[2018.08.26-08.30.59:371][208]LogShaderCompilers: Display: Shaders left to compile 116
+[2018.08.26-08.30.59:381][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/UE4_Mannequin__normalsA138378E4F81249CD37BED940338AEC7.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Models/player/Textures/UE4_Mannequin__normals.uasset'
+[2018.08.26-08.30.59:447][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/UE4_Mannequin_MAT_MASKA5DF9CCBE4B5E7245E5ADBEA495A4B7E6.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Models/player/Textures/UE4_Mannequin_MAT_MASKA.uasset'
+[2018.08.26-08.30.59:524][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/UE4_Mannequin_occlusion_MobileDF03F5BD421ABE29E8DD0BA33EE4E5DE.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Models/player/Textures/UE4_Mannequin_occlusion_Mobile.uasset'
+[2018.08.26-08.30.59:603][208]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/UE4Man_Logo_NB2E30B8042D3F094BF8B9D8B5EFFE88B.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Models/player/Textures/UE4Man_Logo_N.uasset'
+[2018.08.26-08.31.00:995][209]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.08.26-08.31.04:884][333]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.08.26-08.31.05:022][337]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.08.26-08.31.10:540][529]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.08.26-08.31.11:512][547]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.08.26-08.31.12:472][565]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.08.26-08.31.15:290][614]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.08.26-08.31.17:541][655]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.08.26-08.31.20:497][742]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.08.26-08.31.21:948][808]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.26-08.31.24:887][971]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.26-08.31.38:339][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Aim_Space_HipD8B1F4F64CC52ECF1763D69D4DCCA4BB.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Aim_Space_Hip.uasset'
+[2018.08.26-08.31.38:440][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Aim_Space_Ironsights744E2B4445A1A9F28DD517B1E8C616F2.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Aim_Space_Ironsights.uasset'
+[2018.08.26-08.31.38:504][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Idle_Rifle_HipE5FDA9A7490BDC34EE1FEAAA4F88C7BE.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Crouch_Idle_Rifle_Hip.uasset'
+[2018.08.26-08.31.38:568][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Idle_Rifle_IronsightsC58A6ED24FFE9753CBA7B4B0338D3614.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Crouch_Idle_Rifle_Ironsights.uasset'
+[2018.08.26-08.31.38:633][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_to_Stand_Rifle_Hip29E8A6B74250A63483367FB05D3A52BF.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Crouch_to_Stand_Rifle_Hip.uasset'
+[2018.08.26-08.31.38:693][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_to_Stand_Rifle_Ironsights3AA08008446A00E36E27C8A9B18142A2.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Crouch_to_Stand_Rifle_Ironsights.uasset'
+[2018.08.26-08.31.38:755][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Walk_Bwd_Rifle_Hip484653A3459F43DFEB189E98753123F7.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Crouch_Walk_Bwd_Rifle_Hip.uasset'
+[2018.08.26-08.31.38:824][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Walk_Bwd_Rifle_IronsightsE1B0FE4E47617B94DB898494E174FC4A.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Crouch_Walk_Bwd_Rifle_Ironsights.uasset'
+[2018.08.26-08.31.38:889][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Walk_Fwd_Rifle_Hip08046BFA4772CE01093581811EF9F509.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Crouch_Walk_Fwd_Rifle_Hip.uasset'
+[2018.08.26-08.31.38:963][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Walk_Fwd_Rifle_Ironsights1554AF924967ED32842CD282A48E9295.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Crouch_Walk_Fwd_Rifle_Ironsights.uasset'
+[2018.08.26-08.31.39:027][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Walk_Lt_Rifle_Hip124B7AFD4E960466BA6D29B45CA5D8BB.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Crouch_Walk_Lt_Rifle_Hip.uasset'
+[2018.08.26-08.31.39:090][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Walk_Lt_Rifle_Ironsights60924DFF44EB9189214781AD065955D4.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Crouch_Walk_Lt_Rifle_Ironsights.uasset'
+[2018.08.26-08.31.39:155][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Walk_Rt_Rifle_HipF026B7984C566DB2D9BAC08104BB6840.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Crouch_Walk_Rt_Rifle_Hip.uasset'
+[2018.08.26-08.31.39:217][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Crouch_Walk_Rt_Rifle_Ironsights1BED63764712F8C4E72C8982B89B1D8D.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Crouch_Walk_Rt_Rifle_Ironsights.uasset'
+[2018.08.26-08.31.39:281][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Death_17E4824B54A5992CA3BDA2E80A098F1D7.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Death_1.uasset'
+[2018.08.26-08.31.39:352][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Death_2E4E22A1F45ED449496EA078E109DD3C4.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Death_2.uasset'
+[2018.08.26-08.31.39:416][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Death_3E278162744E926D40C9FCE8591479A88.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Death_3.uasset'
+[2018.08.26-08.31.39:479][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Death_Ironsights_1CD596F8F42D24ED87A9A8B8ECEFB051A.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Death_Ironsights_1.uasset'
+[2018.08.26-08.31.39:544][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Death_Ironsights_2421E63B94CDB73F7A51162A3E5025802.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Death_Ironsights_2.uasset'
+[2018.08.26-08.31.39:603][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Equip_Pistol_Standing05C48D104BC90267D6BFB9BB9450124E.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Equip_Pistol_Standing.uasset'
+[2018.08.26-08.31.39:663][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Equip_Rifle_Standing6084AA11498BF1A1107D788A30CB07CA.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Equip_Rifle_Standing.uasset'
+[2018.08.26-08.31.39:723][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Fire_Rifle_Hip66D6E072408FB33F0AE21DA62CD9106C.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Fire_Rifle_Hip.uasset'
+[2018.08.26-08.31.39:785][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Fire_Rifle_Ironsights7265354F436050B7EE2B7E980F14DBED.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Fire_Rifle_Ironsights.uasset'
+[2018.08.26-08.31.39:845][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Fire_Shotgun_Hip99A3319946CE393734F5098B083371E3.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Fire_Shotgun_Hip.uasset'
+[2018.08.26-08.31.39:960][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Fire_Shotgun_Ironsights0207DFA0464AE4C76EE1E1A4294B6FD4.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Fire_Shotgun_Ironsights.uasset'
+[2018.08.26-08.31.40:024][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Hit_React_178E3EB2242C6F00ECEE0CB9E93D5C42E.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Hit_React_1.uasset'
+[2018.08.26-08.31.40:087][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Hit_React_23373243B40DD208420610F9B2BFAF55C.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Hit_React_2.uasset'
+[2018.08.26-08.31.40:148][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Hit_React_3F1D6D5744024CBB8FC79BB8348D0834E.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Hit_React_3.uasset'
+[2018.08.26-08.31.40:214][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Hit_React_48EEACC9A4E6BE293C1C62E814F6424BE.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Hit_React_4.uasset'
+[2018.08.26-08.31.40:281][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Idle_Pistol3310A3BB477B733E2851EA9B043F1A09.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Idle_Pistol.uasset'
+[2018.08.26-08.31.40:382][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Idle_Rifle_HipE7E1D6EB452DAA9DFF8979B3BBE9A407.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Idle_Rifle_Hip.uasset'
+[2018.08.26-08.31.40:446][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Idle_Rifle_Hip_Break1624706A24AE595CBE6C2CB8FEDEF53E7.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Idle_Rifle_Hip_Break1.uasset'
+[2018.08.26-08.31.40:518][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Idle_Rifle_Hip_Break298EB94A144953A1C5579DC899FF16B85.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Idle_Rifle_Hip_Break2.uasset'
+[2018.08.26-08.31.40:585][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Idle_Rifle_Ironsights54FA64064B405B82A6DE03BD6420523E.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Idle_Rifle_Ironsights.uasset'
+[2018.08.26-08.31.40:649][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Jog_Bwd_Rifle5432E8D3457328C4A75278BA56BA7845.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Jog_Bwd_Rifle.uasset'
+[2018.08.26-08.31.40:709][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Jog_Fwd_Rifle6E2DE4F049E21C0BF73D1E9347E42D78.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Jog_Fwd_Rifle.uasset'
+[2018.08.26-08.31.40:768][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Jog_Lt_RifleA4804A2249B478EC073484A6F62291A4.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Jog_Lt_Rifle.uasset'
+[2018.08.26-08.31.40:828][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Jog_Rt_Rifle2A707FF04FF5EADF542A4B92548ADF51.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Jog_Rt_Rifle.uasset'
+[2018.08.26-08.31.40:889][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Jump_From_Jog73B2DAC6453ACB815B997DA59F8B539E.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Jump_From_Jog.uasset'
+[2018.08.26-08.31.40:958][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Jump_From_StandC8091004485A97DFDB2E4C9DF5E9C06D.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Jump_From_Stand.uasset'
+[2018.08.26-08.31.41:019][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Jump_From_Stand_IronsightsA58345EB4072CACB7DDDCDA6E5E384AD.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Jump_From_Stand_Ironsights.uasset'
+[2018.08.26-08.31.41:081][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Prone_Death_1B08C1CC647D93D2BA3B0029F3BBF30B8.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Prone_Death_1.uasset'
+[2018.08.26-08.31.41:142][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Prone_Death_2C90FE4CE48E0E7043E9DEB9DBF3A6F68.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Prone_Death_2.uasset'
+[2018.08.26-08.31.41:236][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Prone_Fire_11AC516EE4F13AE7FA53FF99355535835.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Prone_Fire_1.uasset'
+[2018.08.26-08.31.41:297][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Prone_Fire_27BD522A7400AAD327BD3F5AB8C30930C.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Prone_Fire_2.uasset'
+[2018.08.26-08.31.41:359][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Prone_IdleA542EB8046CE36D6B6C7928C7DC85B49.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Prone_Idle.uasset'
+[2018.08.26-08.31.41:420][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Prone_Reload_Rifle994BF7214F04A5EBA451D6910B224571.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Prone_Reload_Rifle.uasset'
+[2018.08.26-08.31.41:487][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Prone_Reload_Shotgun16915F5A4D5ADDA9574AECB72F658511.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Prone_Reload_Shotgun.uasset'
+[2018.08.26-08.31.41:554][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Prone_To_Stand72A8FE32464925081817D088B78206B4.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Prone_To_Stand.uasset'
+[2018.08.26-08.31.41:615][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Reload_Pistol176CA2954AE2103902E51ABA9E4308B9.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Reload_Pistol.uasset'
+[2018.08.26-08.31.41:677][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Reload_Rifle_Hip011440B04B5867C111A961AE3840FC83.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Reload_Rifle_Hip.uasset'
+[2018.08.26-08.31.41:739][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Reload_Rifle_IronsightsE8267E7D44134127B2C44F96D171C2EC.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Reload_Rifle_Ironsights.uasset'
+[2018.08.26-08.31.41:806][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Reload_Shotgun_Hip616AA8474648AD3C3B226891042F4B01.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Reload_Shotgun_Hip.uasset'
+[2018.08.26-08.31.41:867][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Reload_Shotgun_Ironsights695F62064D0D92E6322FA4BFD9376B80.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Reload_Shotgun_Ironsights.uasset'
+[2018.08.26-08.31.41:927][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Sprint_Fwd_Rifle0F23F21C4C7E37648A48BA807E20656E.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Sprint_Fwd_Rifle.uasset'
+[2018.08.26-08.31.41:988][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Stand_to_Crouch_Rifle_HipA209711A45BAD92A38C97CA9C7501D8C.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Stand_to_Crouch_Rifle_Hip.uasset'
+[2018.08.26-08.31.42:052][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Stand_to_Crouch_Rifle_Ironsights9D1DF0C34B6D78B24BEC0CAD02CD93B9.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Stand_to_Crouch_Rifle_Ironsights.uasset'
+[2018.08.26-08.31.42:115][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Stand_To_ProneEC8FC8FF48F6F8FD89D0E38689C9B54B.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Stand_To_Prone.uasset'
+[2018.08.26-08.31.42:179][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Walk_Bwd_Rifle_Ironsights492F44CB43D28B4D8BA883AC3250003C.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Walk_Bwd_Rifle_Ironsights.uasset'
+[2018.08.26-08.31.42:238][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Walk_Fwd_Rifle_IronsightsA9E9261A452A402D5DB1E4B9CA7FB8C4.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Walk_Fwd_Rifle_Ironsights.uasset'
+[2018.08.26-08.31.42:299][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Walk_Lt_Rifle_Ironsights6389AB744E7DBA43D88C7EB330D77A96.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Walk_Lt_Rifle_Ironsights.uasset'
+[2018.08.26-08.31.42:364][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Walk_Rt_Rifle_Ironsights98DE01B442FC1BC6F84633A8C3DD478A.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM/Walk_Rt_Rifle_Ironsights.uasset'
+[2018.08.26-08.31.49:451][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/UE4ASP_HeroTPP_AnimBlueprintE19794334D4EEF2303F8ACB0A2C778F4.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset'
+[2018.08.26-08.31.49:499][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/BS_CrouchWalk9ACCFC4148F8842B3131BF91351573C5.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/AnimStarterPack/BS_CrouchWalk.uasset'
+[2018.08.26-08.31.49:544][423]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/BS_Jog1096FC3C407148AA3C88D6A453E99350.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/AnimStarterPack/BS_Jog.uasset'
+[2018.08.26-08.32.07:608][359]LogMetaData: Removing '/Game/Animation/Player/ANM_TREE/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2018.08.26-08.32.07:608][359]LogMetaData: Removing '/Game/Animation/Player/ANM_TREE/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2018.08.26-08.32.07:608][359]LogMetaData: Removing '/Game/Animation/Player/ANM_TREE/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Crouching' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2018.08.26-08.32.07:608][359]LogMetaData: Removing '/Game/Animation/Player/ANM_TREE/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Jumping' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2018.08.26-08.32.07:608][359]LogMetaData: Removing '/Game/Animation/Player/ANM_TREE/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Enable Jump' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2018.08.26-08.32.07:608][359]LogMetaData: Removing '/Game/Animation/Player/ANM_TREE/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Direction' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2018.08.26-08.32.07:608][359]LogMetaData: Removing '/Game/Animation/Player/ANM_TREE/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Speed' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2018.08.26-08.32.07:608][359]LogMetaData: Removing '/Game/Animation/Player/ANM_TREE/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Can Jump' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2018.08.26-08.32.07:608][359]LogMetaData: Removing '/Game/Animation/Player/ANM_TREE/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2018.08.26-08.32.07:608][359]LogMetaData: Removing '/Game/Animation/Player/ANM_TREE/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Crouching' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2018.08.26-08.32.07:608][359]LogMetaData: Removing '/Game/Animation/Player/ANM_TREE/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Jumping' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2018.08.26-08.32.07:608][359]LogMetaData: Removing '/Game/Animation/Player/ANM_TREE/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Enable Jump' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2018.08.26-08.32.07:608][359]LogMetaData: Removing '/Game/Animation/Player/ANM_TREE/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Direction' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2018.08.26-08.32.07:608][359]LogMetaData: Removing '/Game/Animation/Player/ANM_TREE/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Speed' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2018.08.26-08.32.07:608][359]LogMetaData: Removing '/Game/Animation/Player/ANM_TREE/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2018.08.26-08.32.07:608][359]LogMetaData: Removing '/Game/Animation/Player/ANM_TREE/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Can Jump' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2018.08.26-08.32.07:708][359]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/BS_CrouchWalk07C9606445CFBA671509E0A52AA66539.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM_TREE/BS_CrouchWalk.uasset'
+[2018.08.26-08.32.07:771][359]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/BS_Jog5085F9CE432CDF26C0F05A9131A64BAE.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM_TREE/BS_Jog.uasset'
+[2018.08.26-08.32.07:950][359]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/UE4ASP_HeroTPP_AnimBlueprint2200110A410ABA7E517AF79AF4EEB1BE.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Animation/Player/ANM_TREE/UE4ASP_HeroTPP_AnimBlueprint.uasset'
+[2018.08.26-08.32.08:562][359]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Ue4ASP_CharacterCE110CA94A515221B768D3988DE6584C.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/BP/Player/Ue4ASP_Character.uasset'
+[2018.08.26-08.32.12:509][584]LogHttp: Warning: 000001BFE457F4C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.26-08.32.12:509][584]LogHttp: Warning: 000001BFE457F4C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.26-08.32.12:509][584]LogHttp: Warning: 000001BFE457F4C0: libcurl info message cache 1 (Closing connection 5)
+[2018.08.26-08.32.46:338][159]LogAssetEditorManager: Opening Asset editor for MaterialFunction /Game/Models/player/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.ML_Plastic_Shiny_Beige_LOGO
+[2018.08.26-08.32.47:594][159]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.26-08.32.47:629][159]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.08.26-08.32.47:629][159]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.08.26-08.32.47:629][159]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.08.26-08.32.47:677][159]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2018.08.26-08.32.47:774][159]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.26-08.32.47:852][159]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2018.08.26-08.32.47:903][159]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2018.08.26-08.32.47:919][159]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.08.26-08.32.47:942][159]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.08.26-08.32.47:986][159]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_5, compiling. 
+[2018.08.26-08.32.48:383][161]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.08.26-08.32.48:468][162]LogSlate: Took 0.041011 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.26-08.32.48:542][165]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.08.26-08.32.48:615][167]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.08.26-08.32.49:228][181]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.08.26-08.32.49:792][202]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.08.26-08.32.49:990][210]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.08.26-08.32.50:258][214]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.08.26-08.32.50:336][214]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.08.26-08.32.50:637][215]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.08.26-08.32.50:637][215]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.08.26-08.32.50:637][215]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.08.26-08.32.50:997][228]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.08.26-08.32.51:092][231]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.08.26-08.32.51:541][247]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.08.26-08.32.52:108][269]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.08.26-08.32.52:132][269]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.08.26-08.32.52:575][279]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.08.26-08.32.53:294][302]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.08.26-08.32.53:559][311]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.08.26-08.32.54:342][336]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.08.26-08.32.54:936][351]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.08.26-08.32.55:138][363]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.08.26-08.32.55:189][366]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.08.26-08.32.55:279][371]LogSlate: Window 'ML_Plastic_Shiny_Beige_LOGO' being destroyed
+[2018.08.26-08.32.55:620][391]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.08.26-08.32.55:974][411]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.08.26-08.32.56:076][415]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.08.26-08.32.56:256][425]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.08.26-08.32.56:708][452]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.08.26-08.32.56:846][460]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.08.26-08.32.56:900][463]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.08.26-08.32.57:224][482]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.08.26-08.32.58:990][583]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.08.26-08.32.59:072][588]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.08.26-08.32.59:357][605]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.08.26-08.33.00:475][670]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.26-08.33.00:783][688]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.26-08.33.01:131][708]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.26-08.33.02:273][775]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.26-08.33.02:507][789]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.26-08.33.02:885][811]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.26-08.33.03:806][865]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.26-08.33.03:939][873]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.26-08.33.04:335][896]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.26-08.33.04:877][928]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.26-08.33.05:030][937]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.26-08.33.05:974][991]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.26-08.33.06:159][  2]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.26-08.33.06:393][ 14]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2018.08.26-08.33.06:460][ 18]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.26-08.33.06:725][ 20]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.26-08.33.06:809][ 20]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.26-08.33.06:937][ 20]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.26-08.33.07:072][ 20]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.26-08.33.19:351][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-08.33.19:880][725]LogRenderer: Reallocating scene render targets to support 828x360 Format 10 NumSamples 1 (Frame:1311).
+[2018.08.26-08.33.19:928][726]LogRenderer: Reallocating scene render targets to support 828x372 Format 10 NumSamples 1 (Frame:1313).
+[2018.08.26-08.33.19:977][727]LogRenderer: Reallocating scene render targets to support 828x392 Format 10 NumSamples 1 (Frame:1315).
+[2018.08.26-08.33.20:027][728]LogRenderer: Reallocating scene render targets to support 828x404 Format 10 NumSamples 1 (Frame:1317).
+[2018.08.26-08.33.20:077][729]LogRenderer: Reallocating scene render targets to support 828x416 Format 10 NumSamples 1 (Frame:1319).
+[2018.08.26-08.33.20:126][730]LogRenderer: Reallocating scene render targets to support 828x420 Format 10 NumSamples 1 (Frame:1321).
+[2018.08.26-08.33.20:209][732]LogRenderer: Reallocating scene render targets to support 828x424 Format 10 NumSamples 1 (Frame:1325).
+[2018.08.26-08.33.20:251][733]LogRenderer: Reallocating scene render targets to support 828x428 Format 10 NumSamples 1 (Frame:1327).
+[2018.08.26-08.33.20:370][736]LogRenderer: Reallocating scene render targets to support 828x432 Format 10 NumSamples 1 (Frame:1333).
+[2018.08.26-08.33.24:481][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-08.33.49:737][444]LogMaterialEditor: Applying material ML_Plastic_Shiny_Beige_LOGO
+[2018.08.26-08.33.50:515][444]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.26-08.33.50:630][444]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.08.26-08.33.50:630][444]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.08.26-08.33.50:630][444]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.08.26-08.33.50:630][444]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2018.08.26-08.33.50:670][444]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.08.26-08.33.50:834][444]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.08.26-08.33.50:935][444]LogMaterial: Display: Missing cached shader map for material Material_5, compiling. 
+[2018.08.26-08.33.51:370][456]LogShaderCompilers: Display: Shaders left to compile 345
+[2018.08.26-08.33.51:508][463]LogMaterialEditor: Saving and Compiling material ML_Plastic_Shiny_Beige_LOGO
+[2018.08.26-08.33.51:544][463]LogShaderCompilers: Display: Shaders left to compile 344
+[2018.08.26-08.33.51:691][463]LogShaderCompilers: Display: Shaders left to compile 343
+[2018.08.26-08.33.51:691][463]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/ML_Plastic_Shiny_Beige_LOGOD02D49A04565C61445034B8E131916AF.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Models/player/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2018.08.26-08.33.51:999][478]LogShaderCompilers: Display: Shaders left to compile 342
+[2018.08.26-08.33.53:136][536]LogShaderCompilers: Display: Shaders left to compile 341
+[2018.08.26-08.33.53:169][538]LogShaderCompilers: Display: Shaders left to compile 340
+[2018.08.26-08.33.53:203][540]LogShaderCompilers: Display: Shaders left to compile 339
+[2018.08.26-08.33.53:479][544]LogShaderCompilers: Display: Shaders left to compile 338
+[2018.08.26-08.33.53:581][550]LogShaderCompilers: Display: Shaders left to compile 337
+[2018.08.26-08.33.53:700][557]LogShaderCompilers: Display: Shaders left to compile 336
+[2018.08.26-08.33.54:061][578]LogShaderCompilers: Display: Shaders left to compile 335
+[2018.08.26-08.33.54:216][587]LogShaderCompilers: Display: Shaders left to compile 334
+[2018.08.26-08.33.54:234][588]LogShaderCompilers: Display: Shaders left to compile 333
+[2018.08.26-08.33.54:669][613]LogShaderCompilers: Display: Shaders left to compile 332
+[2018.08.26-08.33.54:883][626]LogShaderCompilers: Display: Shaders left to compile 331
+[2018.08.26-08.33.54:883][626]LogShaderCompilers: Display: Shaders left to compile 330
+[2018.08.26-08.33.55:416][657]LogShaderCompilers: Display: Shaders left to compile 329
+[2018.08.26-08.33.55:500][662]LogShaderCompilers: Display: Shaders left to compile 328
+[2018.08.26-08.33.55:908][681]LogShaderCompilers: Display: Shaders left to compile 327
+[2018.08.26-08.33.55:938][682]LogShaderCompilers: Display: Shaders left to compile 326
+[2018.08.26-08.33.55:975][682]LogShaderCompilers: Display: Shaders left to compile 325
+[2018.08.26-08.33.56:155][682]LogShaderCompilers: Display: Shaders left to compile 324
+[2018.08.26-08.33.56:167][682]LogShaderCompilers: Display: Shaders left to compile 323
+[2018.08.26-08.33.56:227][682]LogShaderCompilers: Display: Shaders left to compile 322
+[2018.08.26-08.33.56:410][682]LogShaderCompilers: Display: Shaders left to compile 321
+[2018.08.26-08.33.56:454][682]LogShaderCompilers: Display: Shaders left to compile 320
+[2018.08.26-08.33.56:468][682]LogShaderCompilers: Display: Shaders left to compile 319
+[2018.08.26-08.33.56:666][682]LogShaderCompilers: Display: Shaders left to compile 318
+[2018.08.26-08.33.57:061][682]LogShaderCompilers: Display: Shaders left to compile 317
+[2018.08.26-08.33.57:098][682]LogShaderCompilers: Display: Shaders left to compile 316
+[2018.08.26-08.33.57:139][682]LogShaderCompilers: Display: Shaders left to compile 315
+[2018.08.26-08.33.57:551][682]LogShaderCompilers: Display: Shaders left to compile 314
+[2018.08.26-08.33.57:703][682]LogShaderCompilers: Display: Shaders left to compile 313
+[2018.08.26-08.33.57:770][682]LogShaderCompilers: Display: Shaders left to compile 312
+[2018.08.26-08.33.58:153][682]LogShaderCompilers: Display: Shaders left to compile 311
+[2018.08.26-08.33.58:221][682]LogShaderCompilers: Display: Shaders left to compile 310
+[2018.08.26-08.33.58:413][682]LogShaderCompilers: Display: Shaders left to compile 309
+[2018.08.26-08.33.58:730][682]LogShaderCompilers: Display: Shaders left to compile 308
+[2018.08.26-08.33.58:796][682]LogShaderCompilers: Display: Shaders left to compile 307
+[2018.08.26-08.33.58:848][682]LogShaderCompilers: Display: Shaders left to compile 306
+[2018.08.26-08.33.59:127][682]LogShaderCompilers: Display: Shaders left to compile 305
+[2018.08.26-08.33.59:197][682]LogShaderCompilers: Display: Shaders left to compile 295
+[2018.08.26-08.33.59:440][682]LogShaderCompilers: Display: Shaders left to compile 285
+[2018.08.26-08.34.01:856][682]LogShaderCompilers: Display: Shaders left to compile 275
+[2018.08.26-08.34.01:994][682]LogShaderCompilers: Display: Shaders left to compile 265
+[2018.08.26-08.34.02:535][683]LogShaderCompilers: Display: Shaders left to compile 255
+[2018.08.26-08.34.05:577][685]LogShaderCompilers: Display: Shaders left to compile 245
+[2018.08.26-08.34.06:028][685]LogShaderCompilers: Display: Shaders left to compile 235
+[2018.08.26-08.34.07:211][685]LogShaderCompilers: Display: Shaders left to compile 225
+[2018.08.26-08.34.08:982][685]LogShaderCompilers: Display: Shaders left to compile 215
+[2018.08.26-08.34.09:965][685]LogShaderCompilers: Display: Shaders left to compile 205
+[2018.08.26-08.34.11:826][685]LogShaderCompilers: Display: Shaders left to compile 195
+[2018.08.26-08.34.12:538][688]LogHttp: Warning: 000001C028EEF380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.26-08.34.12:538][688]LogHttp: Warning: 000001C028EEF380: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.26-08.34.12:538][688]LogHttp: Warning: 000001C028EEF380: libcurl info message cache 1 (Closing connection 6)
+[2018.08.26-08.34.14:122][746]LogShaderCompilers: Display: Shaders left to compile 185
+[2018.08.26-08.34.14:428][757]LogShaderCompilers: Display: Shaders left to compile 175
+[2018.08.26-08.34.20:097][ 26]LogShaderCompilers: Display: Shaders left to compile 165
+[2018.08.26-08.34.22:281][142]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.26-08.34.22:324][142]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.08.26-08.34.22:350][142]LogPlayLevel: [PlayLevel] Compiling Ue4ASP_Character before play...
+[2018.08.26-08.34.22:712][142]LogPlayLevel: [PlayLevel] Compiling UE4ASP_HeroTPP_AnimBlueprint before play...
+[2018.08.26-08.34.23:171][142]LogPlayLevel: PlayLevel: Blueprint regeneration took 846 ms (2 blueprints)
+[2018.08.26-08.34.23:229][142]LogShaderCompilers: Display: Shaders left to compile 155
+[2018.08.26-08.34.23:229][142]PIE: New page: PIE session: Bennet_Test_Map (26 Aug 2018, 12:34:23 PM)
+[2018.08.26-08.34.23:229][142]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Bennet_Test_Map
+[2018.08.26-08.34.23:237][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008281s)
+[2018.08.26-08.34.23:239][142]LogAIModule: Creating AISystem for world Bennet_Test_Map
+[2018.08.26-08.34.23:239][142]LogPlayLevel: PIE: World Init took: (0.001617s)
+[2018.08.26-08.34.23:239][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Bennet_Test_Map.Bennet_Test_Map to /Game/Maps/UEDPIE_0_Bennet_Test_Map.Bennet_Test_Map (0.010436s)
+[2018.08.26-08.34.23:310][142]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adaptor)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.26-08.34.23:330][142]LogInit: FAudioDevice initialized.
+[2018.08.26-08.34.23:343][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-08.34.23:478][142]LogLoad: Game class is 'InGame_C'
+[2018.08.26-08.34.23:484][142]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Bennet_Test_Map.Bennet_Test_Map up for play (max tick rate 60) at 2018.08.26-10.34.23
+[2018.08.26-08.34.23:484][142]LogWorld: Bringing up level for play took: 0.001375
+[2018.08.26-08.34.23:540][142]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 10 classes and 0 folders.
+[2018.08.26-08.34.23:555][142]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Bennet_Test_Map 0,584
+[2018.08.26-08.34.23:622][142]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2018.08.26-08.34.25:093][143]LogShaderCompilers: Display: Shaders left to compile 145
+[2018.08.26-08.34.25:795][143]LogShaderCompilers: Display: Shaders left to compile 135
+[2018.08.26-08.34.26:555][143]LogShaderCompilers: Display: Shaders left to compile 125
+[2018.08.26-08.34.29:548][143]LogShaderCompilers: Display: Shaders left to compile 115
+[2018.08.26-08.34.29:562][143]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.08.26-08.34.33:276][296]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.08.26-08.34.42:316][690]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.08.26-08.34.45:995][850]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.08.26-08.34.52:894][156]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.08.26-08.34.54:133][211]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.08.26-08.34.58:167][388]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.08.26-08.35.07:788][811]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.08.26-08.35.08:803][856]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.08.26-08.35.14:559][111]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.26-08.35.15:665][116]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.26-08.35.20:173][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-08.35.20:221][311]LogSlate: Window 'CodeNameGT6 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.26-08.35.20:260][311]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.26-08.35.20:384][312]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.08.26-08.35.30:997][915]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.08.26-08.35.34:412][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-08.35.39:958][429]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2018.08.26-08.35.40:001][429]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2018.08.26-08.35.57:026][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-08.36.12:584][332]LogHttp: Warning: 000001BFA67F6C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.26-08.36.12:584][332]LogHttp: Warning: 000001BFA67F6C00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.26-08.36.12:584][332]LogHttp: Warning: 000001BFA67F6C00: libcurl info message cache 1 (Closing connection 7)
+[2018.08.26-08.36.42:991][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-08.36.43:172][ 78]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Bennet_Test_Map_Auto1301DEB40411EFB4241E424B33EF18A6F.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Autosaves/Game/Maps/Bennet_Test_Map_Auto1.umap'
+[2018.08.26-08.36.43:194][ 78]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Bennet_Test_Map' took 0.107
+[2018.08.26-08.36.43:194][ 78]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.107
+[2018.08.26-08.36.43:196][ 78]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/player/Materials/M_UE4Man_Body] ([1] browsable assets)...
+[2018.08.26-08.36.43:314][ 78]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/player/Materials/M_UE4Man_Body.M_UE4Man_Body]
+[2018.08.26-08.36.43:314][ 78]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/player/Materials/M_UE4Man_Body]
+[2018.08.26-08.36.43:380][ 78]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/M_UE4Man_Body_Auto10AA3B7FF4F87E7D45AEE4DAB9A170F1B.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Autosaves/Game/Models/player/Materials/M_UE4Man_Body_Auto1.uasset'
+[2018.08.26-08.36.43:382][ 78]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/player/Materials/M_UE4Man_ChestLogo] ([1] browsable assets)...
+[2018.08.26-08.36.43:434][ 78]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Models/player/Materials/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo]
+[2018.08.26-08.36.43:434][ 78]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/player/Materials/M_UE4Man_ChestLogo]
+[2018.08.26-08.36.43:491][ 78]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/M_UE4Man_ChestLogo_Auto16EE54AC94F618BF0B383928A2592DAB9.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Autosaves/Game/Models/player/Materials/M_UE4Man_ChestLogo_Auto1.uasset'
+[2018.08.26-08.36.43:492][ 78]LogFileHelpers: Auto-saving content packages took 0.297
+[2018.08.26-08.38.12:617][417]LogHttp: Warning: 000001BFC0406340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.26-08.38.12:617][417]LogHttp: Warning: 000001BFC0406340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.26-08.38.12:617][417]LogHttp: Warning: 000001BFC0406340: libcurl info message cache 1 (Closing connection 8)
+[2018.08.26-08.40.12:656][608]LogHttp: Warning: 000001BFC0406340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.26-08.40.12:656][608]LogHttp: Warning: 000001BFC0406340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.26-08.40.12:656][608]LogHttp: Warning: 000001BFC0406340: libcurl info message cache 1 (Closing connection 9)
+[2018.08.26-08.42.12:687][789]LogHttp: Warning: 000001BFC0406340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.26-08.42.12:687][789]LogHttp: Warning: 000001BFC0406340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.26-08.42.12:687][789]LogHttp: Warning: 000001BFC0406340: libcurl info message cache 1 (Closing connection 10)
+[2018.08.26-08.44.12:723][991]LogHttp: Warning: 000001BFC0406340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.26-08.44.12:723][991]LogHttp: Warning: 000001BFC0406340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.26-08.44.12:723][991]LogHttp: Warning: 000001BFC0406340: libcurl info message cache 1 (Closing connection 11)
+[2018.08.26-08.46.12:751][184]LogHttp: Warning: 000001BFC0406340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.26-08.46.12:751][184]LogHttp: Warning: 000001BFC0406340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.26-08.46.12:751][184]LogHttp: Warning: 000001BFC0406340: libcurl info message cache 1 (Closing connection 12)
+[2018.08.26-08.48.12:776][385]LogHttp: Warning: 000001BFC0406340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.26-08.48.12:776][385]LogHttp: Warning: 000001BFC0406340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.26-08.48.12:776][385]LogHttp: Warning: 000001BFC0406340: libcurl info message cache 1 (Closing connection 13)
+[2018.08.26-08.50.12:821][587]LogHttp: Warning: 000001BFC0406340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.26-08.50.12:821][587]LogHttp: Warning: 000001BFC0406340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.26-08.50.12:821][587]LogHttp: Warning: 000001BFC0406340: libcurl info message cache 1 (Closing connection 14)
+[2018.08.26-08.52.12:853][788]LogHttp: Warning: 000001BFC0406340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.26-08.52.12:853][788]LogHttp: Warning: 000001BFC0406340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.26-08.52.12:853][788]LogHttp: Warning: 000001BFC0406340: libcurl info message cache 1 (Closing connection 15)
+[2018.08.26-08.54.12:917][970]LogHttp: Warning: 000001BFC0406FC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.26-08.54.12:918][970]LogHttp: Warning: 000001BFC0406FC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.26-08.54.12:918][970]LogHttp: Warning: 000001BFC0406FC0: libcurl info message cache 1 (Closing connection 16)
+[2018.08.26-08.56.12:939][153]LogHttp: Warning: 000001BFC0406FC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.26-08.56.12:940][153]LogHttp: Warning: 000001BFC0406FC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.26-08.56.12:940][153]LogHttp: Warning: 000001BFC0406FC0: libcurl info message cache 1 (Closing connection 17)
+[2018.08.26-08.58.13:006][350]LogHttp: Warning: 000001BFC0406FC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.26-08.58.13:007][350]LogHttp: Warning: 000001BFC0406FC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.26-08.58.13:007][350]LogHttp: Warning: 000001BFC0406FC0: libcurl info message cache 1 (Closing connection 18)
+[2018.08.26-09.00.13:034][551]LogHttp: Warning: 000001BFC0406FC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.26-09.00.13:034][551]LogHttp: Warning: 000001BFC0406FC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.26-09.00.13:034][551]LogHttp: Warning: 000001BFC0406FC0: libcurl info message cache 1 (Closing connection 19)
+[2018.08.26-09.02.13:057][752]LogHttp: Warning: 000001BFC0406FC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.26-09.02.13:057][752]LogHttp: Warning: 000001BFC0406FC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.26-09.02.13:057][752]LogHttp: Warning: 000001BFC0406FC0: libcurl info message cache 1 (Closing connection 20)
+[2018.08.26-09.03.08:957][958]LogSlate: Window 'Save Content' being destroyed
+[2018.08.26-09.03.09:224][958]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/Bennet_Test_Map28D018424C885AC046FAEE9D5250AAA3.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Maps/Bennet_Test_Map.umap'
+[2018.08.26-09.03.09:265][958]LogFileHelpers: Saving map 'Bennet_Test_Map' took 0.272
+[2018.08.26-09.03.09:323][958]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/M_UE4Man_BodyA67C31FF4D08FAE845574C94038CACC8.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Models/player/Materials/M_UE4Man_Body.uasset'
+[2018.08.26-09.03.09:380][958]LogSavePackage: Moving '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Saved/M_UE4Man_ChestLogoDA14318146DDDC9FA6C70BB24B02B200.tmp' to '../../../../../../Users/benne/Documents/GitHub/CodeName-GT6/CodeName-GT6/CodeNameGT6 4.20/Content/Models/player/Materials/M_UE4Man_ChestLogo.uasset'
+[2018.08.26-09.03.09:484][958]LogSlate: Window 'CodeNameGT6 - Unreal Editor' being destroyed
+[2018.08.26-09.03.09:726][959]Cmd: QUIT_EDITOR
+[2018.08.26-09.03.10:096][959]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.26-09.03.10:108][959]LogExit: Preparing to exit.
+[2018.08.26-09.03.10:684][959]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2018.08.26-09.03.10:786][959]LogExit: Editor shut down
+[2018.08.26-09.03.10:786][959]LogExit: Transaction tracking system shut down
+[2018.08.26-09.03.11:196][959]LogExit: Object subsystem successfully closed.
+[2018.08.26-09.03.11:228][959]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.08.26-09.03.11:233][959]LogD3D11RHI: Shutdown
+[2018.08.26-09.03.11:233][959]LogD3D11RHI: CleanupD3DDevice
+[2018.08.26-09.03.11:239][959]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.08.26-09.03.11:277][959]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (618)
+[2018.08.26-09.03.11:277][959]LogModuleManager: Shutting down and abandoning module Voice (616)
+[2018.08.26-09.03.11:336][959]LogModuleManager: Shutting down and abandoning module StatsViewer (614)
+[2018.08.26-09.03.11:337][959]LogModuleManager: Shutting down and abandoning module BlueprintGraph (612)
+[2018.08.26-09.03.11:337][959]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.08.26-09.03.11:337][959]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (608)
+[2018.08.26-09.03.11:337][959]LogModuleManager: Shutting down and abandoning module SceneOutliner (606)
+[2018.08.26-09.03.11:338][959]LogModuleManager: Shutting down and abandoning module AddContentDialog (604)
+[2018.08.26-09.03.11:340][959]LogModuleManager: Shutting down and abandoning module WidgetCarousel (603)
+[2018.08.26-09.03.11:340][959]LogModuleManager: Shutting down and abandoning module EditorWidgets (600)
+[2018.08.26-09.03.11:340][959]LogModuleManager: Shutting down and abandoning module CollectionManager (598)
+[2018.08.26-09.03.11:340][959]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.08.26-09.03.11:340][959]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.08.26-09.03.11:340][959]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.08.26-09.03.11:340][959]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.08.26-09.03.11:341][959]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.08.26-09.03.11:341][959]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.08.26-09.03.11:341][959]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.08.26-09.03.11:341][959]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.08.26-09.03.11:341][959]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.08.26-09.03.11:341][959]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.08.26-09.03.11:341][959]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.08.26-09.03.11:341][959]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.08.26-09.03.11:341][959]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.08.26-09.03.11:341][959]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.08.26-09.03.11:341][959]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.08.26-09.03.11:341][959]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.08.26-09.03.11:341][959]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.08.26-09.03.11:341][959]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.08.26-09.03.11:341][959]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.08.26-09.03.11:341][959]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.08.26-09.03.11:341][959]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.08.26-09.03.11:341][959]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.08.26-09.03.11:341][959]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.08.26-09.03.11:341][959]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.08.26-09.03.11:341][959]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.08.26-09.03.11:341][959]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.08.26-09.03.11:341][959]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.08.26-09.03.11:341][959]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.08.26-09.03.11:341][959]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.08.26-09.03.11:342][959]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.08.26-09.03.11:342][959]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.08.26-09.03.11:342][959]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.08.26-09.03.11:342][959]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.08.26-09.03.11:342][959]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.08.26-09.03.11:342][959]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.08.26-09.03.11:342][959]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.08.26-09.03.11:342][959]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.08.26-09.03.11:342][959]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.08.26-09.03.11:342][959]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.08.26-09.03.11:342][959]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.08.26-09.03.11:342][959]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.08.26-09.03.11:342][959]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.08.26-09.03.11:342][959]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.08.26-09.03.11:342][959]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.08.26-09.03.11:342][959]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.08.26-09.03.12:040][959]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.08.26-09.03.12:040][959]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.08.26-09.03.12:040][959]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.08.26-09.03.12:040][959]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.08.26-09.03.12:040][959]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.08.26-09.03.12:040][959]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.08.26-09.03.12:040][959]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.08.26-09.03.12:041][959]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.08.26-09.03.12:041][959]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.08.26-09.03.12:041][959]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.08.26-09.03.12:041][959]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.08.26-09.03.12:041][959]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.08.26-09.03.12:041][959]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.08.26-09.03.12:041][959]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.08.26-09.03.12:041][959]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.08.26-09.03.12:041][959]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.08.26-09.03.12:041][959]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.08.26-09.03.12:041][959]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.08.26-09.03.12:041][959]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.08.26-09.03.12:041][959]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.08.26-09.03.12:041][959]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.08.26-09.03.12:041][959]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.08.26-09.03.12:096][959]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.08.26-09.03.12:096][959]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.08.26-09.03.12:096][959]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.08.26-09.03.12:096][959]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.08.26-09.03.12:096][959]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.08.26-09.03.12:096][959]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.08.26-09.03.12:096][959]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.08.26-09.03.12:096][959]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.08.26-09.03.12:096][959]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.08.26-09.03.12:096][959]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.08.26-09.03.12:104][959]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.08.26-09.03.12:104][959]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.08.26-09.03.12:106][959]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.08.26-09.03.12:106][959]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.08.26-09.03.12:106][959]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.08.26-09.03.12:106][959]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.08.26-09.03.12:106][959]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.08.26-09.03.12:106][959]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.08.26-09.03.12:106][959]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.08.26-09.03.12:106][959]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.08.26-09.03.12:106][959]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.08.26-09.03.12:106][959]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.08.26-09.03.12:106][959]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.08.26-09.03.12:106][959]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.08.26-09.03.12:106][959]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.08.26-09.03.12:106][959]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.08.26-09.03.12:106][959]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.08.26-09.03.12:106][959]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.08.26-09.03.12:106][959]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.08.26-09.03.12:106][959]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.08.26-09.03.12:106][959]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.08.26-09.03.12:106][959]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.08.26-09.03.12:293][959]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.08.26-09.03.12:293][959]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.08.26-09.03.12:293][959]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.08.26-09.03.12:293][959]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.08.26-09.03.12:293][959]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.08.26-09.03.12:293][959]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.08.26-09.03.12:293][959]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.08.26-09.03.12:293][959]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.08.26-09.03.12:293][959]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.08.26-09.03.12:293][959]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.08.26-09.03.12:293][959]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.08.26-09.03.12:293][959]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.08.26-09.03.12:294][959]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.08.26-09.03.12:294][959]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.08.26-09.03.12:294][959]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.08.26-09.03.12:294][959]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.08.26-09.03.12:294][959]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.08.26-09.03.12:294][959]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.08.26-09.03.12:297][959]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.08.26-09.03.12:297][959]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.08.26-09.03.12:297][959]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.08.26-09.03.12:297][959]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.08.26-09.03.12:297][959]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.08.26-09.03.12:297][959]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.08.26-09.03.12:297][959]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.08.26-09.03.12:297][959]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.08.26-09.03.12:297][959]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.08.26-09.03.12:297][959]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.08.26-09.03.12:297][959]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.08.26-09.03.12:297][959]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.08.26-09.03.12:297][959]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.08.26-09.03.12:297][959]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.08.26-09.03.12:297][959]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.08.26-09.03.12:297][959]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.08.26-09.03.12:297][959]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.08.26-09.03.12:298][959]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.08.26-09.03.12:298][959]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.08.26-09.03.12:298][959]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.08.26-09.03.12:298][959]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.08.26-09.03.12:298][959]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.08.26-09.03.12:298][959]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.08.26-09.03.12:298][959]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.08.26-09.03.12:298][959]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.08.26-09.03.12:298][959]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.08.26-09.03.12:298][959]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.08.26-09.03.12:298][959]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.08.26-09.03.12:298][959]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.08.26-09.03.12:298][959]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.08.26-09.03.12:298][959]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.08.26-09.03.12:298][959]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.08.26-09.03.12:298][959]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.08.26-09.03.12:298][959]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.08.26-09.03.12:298][959]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.08.26-09.03.12:298][959]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.08.26-09.03.12:298][959]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.08.26-09.03.12:298][959]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.08.26-09.03.12:298][959]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.08.26-09.03.12:298][959]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.08.26-09.03.12:298][959]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.08.26-09.03.12:399][959]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.08.26-09.03.12:500][959]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.08.26-09.03.12:500][959]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.08.26-09.03.12:500][959]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.08.26-09.03.12:500][959]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.08.26-09.03.12:500][959]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.08.26-09.03.12:500][959]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.08.26-09.03.12:500][959]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.08.26-09.03.12:502][959]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.08.26-09.03.12:502][959]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.08.26-09.03.12:502][959]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.08.26-09.03.12:503][959]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.08.26-09.03.12:503][959]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.08.26-09.03.12:504][959]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.08.26-09.03.12:504][959]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.08.26-09.03.12:504][959]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.08.26-09.03.12:504][959]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.08.26-09.03.12:504][959]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.08.26-09.03.12:504][959]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.08.26-09.03.12:506][959]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.08.26-09.03.12:512][959]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.08.26-09.03.12:512][959]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.08.26-09.03.12:512][959]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.08.26-09.03.12:512][959]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.08.26-09.03.12:512][959]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.08.26-09.03.12:512][959]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.08.26-09.03.12:512][959]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.08.26-09.03.12:512][959]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.08.26-09.03.12:512][959]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.08.26-09.03.12:512][959]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.08.26-09.03.12:512][959]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.08.26-09.03.12:512][959]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.08.26-09.03.12:512][959]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.08.26-09.03.12:513][959]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.08.26-09.03.12:513][959]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.08.26-09.03.12:513][959]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.08.26-09.03.12:513][959]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.08.26-09.03.12:513][959]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.08.26-09.03.12:513][959]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.08.26-09.03.12:513][959]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.08.26-09.03.12:515][959]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.08.26-09.03.12:515][959]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.08.26-09.03.12:515][959]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.08.26-09.03.12:515][959]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.08.26-09.03.12:515][959]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.08.26-09.03.12:515][959]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.08.26-09.03.12:515][959]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.08.26-09.03.12:515][959]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.08.26-09.03.12:515][959]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.08.26-09.03.12:515][959]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.08.26-09.03.12:515][959]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.08.26-09.03.12:515][959]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.08.26-09.03.12:515][959]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.08.26-09.03.12:515][959]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.08.26-09.03.12:515][959]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.08.26-09.03.12:515][959]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.08.26-09.03.12:515][959]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.08.26-09.03.12:515][959]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.08.26-09.03.12:559][959]LogDerivedDataCache: Shutdown
+[2018.08.26-09.03.12:559][959]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.08.26-09.03.12:559][959]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.08.26-09.03.12:559][959]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.08.26-09.03.12:559][959]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.08.26-09.03.12:559][959]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.08.26-09.03.12:559][959]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.08.26-09.03.12:560][959]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.08.26-09.03.12:560][959]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.08.26-09.03.12:560][959]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.08.26-09.03.12:560][959]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.08.26-09.03.12:560][959]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.08.26-09.03.12:560][959]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.08.26-09.03.12:560][959]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.08.26-09.03.12:560][959]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.08.26-09.03.12:560][959]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.08.26-09.03.12:560][959]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.08.26-09.03.12:560][959]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.08.26-09.03.12:560][959]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.08.26-09.03.12:560][959]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.08.26-09.03.12:560][959]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.08.26-09.03.12:560][959]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.08.26-09.03.12:560][959]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.08.26-09.03.12:560][959]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.08.26-09.03.12:561][959]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.08.26-09.03.12:561][959]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.08.26-09.03.12:562][959]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.08.26-09.03.12:562][959]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.08.26-09.03.12:571][959]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.08.26-09.03.12:571][959]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.08.26-09.03.12:571][959]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.08.26-09.03.12:571][959]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.08.26-09.03.12:571][959]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.08.26-09.03.12:571][959]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.08.26-09.03.12:571][959]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.08.26-09.03.12:571][959]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.08.26-09.03.12:571][959]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.08.26-09.03.12:571][959]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.08.26-09.03.12:571][959]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.08.26-09.03.12:571][959]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.08.26-09.03.12:571][959]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.08.26-09.03.12:571][959]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.08.26-09.03.12:571][959]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.08.26-09.03.12:571][959]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.08.26-09.03.12:571][959]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.08.26-09.03.12:571][959]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.08.26-09.03.12:572][959]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.08.26-09.03.12:572][959]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.08.26-09.03.12:578][959]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.08.26-09.03.12:578][959]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.08.26-09.03.12:578][959]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6FC79511-4F7C-28BE-CCC6-00A7049BE9B8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.1-4233996%2B%2B%2BUE4%2BRelease-4.20&UserID=b1d44a27460111ddce9a9ebb50a6c27e%7C6419b1c57b9648d6a9f53ab8177e3543%7Cce6808d2-e861-43c9-9c28-8c4288548f9a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.08.26-09.03.12:578][959]LogHttp: Warning: 000001BF91379580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.26-09.03.12:578][959]LogHttp: Warning: 000001BF91379580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.26-09.03.12:578][959]LogHttp: Warning: 000001BF91379580: libcurl info message cache 1 (Closing connection 21)
+[2018.08.26-09.03.12:580][959]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.08.26-09.03.12:582][959]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.08.26-09.03.12:582][959]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.08.26-09.03.12:582][959]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.08.26-09.03.12:582][959]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.08.26-09.03.12:582][959]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.08.26-09.03.12:582][959]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.08.26-09.03.12:582][959]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.08.26-09.03.12:582][959]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.08.26-09.03.12:582][959]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.08.26-09.03.12:583][959]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.08.26-09.03.12:583][959]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.08.26-09.03.12:583][959]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.08.26-09.03.12:583][959]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.08.26-09.03.12:583][959]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.08.26-09.03.12:583][959]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.08.26-09.03.12:583][959]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.08.26-09.03.12:583][959]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.08.26-09.03.12:583][959]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.08.26-09.03.12:584][959]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.08.26-09.03.12:584][959]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.08.26-09.03.12:584][959]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.08.26-09.03.12:584][959]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.08.26-09.03.12:584][959]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.08.26-09.03.12:584][959]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.08.26-09.03.12:584][959]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.08.26-09.03.12:584][959]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.08.26-09.03.12:584][959]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.08.26-09.03.12:584][959]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.08.26-09.03.12:584][959]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.08.26-09.03.12:587][959]LogExit: Exiting.
+[2018.08.26-09.03.12:598][959]Log file closed, 08/26/18 11:03:12
