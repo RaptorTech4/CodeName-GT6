@@ -37,6 +37,12 @@ public class PlayerMovement : MonoBehaviour {
         {
             IsGrounded = true;
         }
+
+        if(other.transform.tag == "die")
+        {
+            playerDie();
+        }
+
     }
 
      void OnCollisionExit2D(Collision2D collisionInfo)
@@ -46,5 +52,12 @@ public class PlayerMovement : MonoBehaviour {
             IsGrounded = false;
         }
     }
+
+    void playerDie()
+    {
+        
+    }
+    
+
 
 }
